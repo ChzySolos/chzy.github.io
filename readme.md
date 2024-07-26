@@ -1,3 +1,3 @@
 Hi!
 
-theme: Tactile
+theme: jekyll-theme-tactile
